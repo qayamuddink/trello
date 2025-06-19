@@ -51,7 +51,7 @@ const CardAdd = (props) => {
             className="flex p-2 w-full justify-start rounded items-center mt-1 hover:bg-gray-200 transition text-sm text-gray-700"
           >
             <Plus size={16} className="mr-1" />
-            Add a card to
+            Add a card 
           </button>
         )}
       </div>
